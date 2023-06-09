@@ -42,7 +42,6 @@ dependencies:
   flutter_hidden_drawer: ^1.0.1
   material_design_icons_flutter: ^6.0.7096
   url_launcher: ^6.1.10
-  flutter_launcher_icons: ^0.13.1
   webview_flutter: ^4.2.0
   flutter_cache_manager: ^3.3.0
   flutter_inappwebview: ^5.7.2+3
@@ -51,6 +50,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.13.1
 
 flutter_launcher_icons:
   android: true

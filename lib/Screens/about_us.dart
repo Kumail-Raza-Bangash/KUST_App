@@ -154,8 +154,8 @@ class AboutUs extends StatelessWidget {
             ElevatedButton(
               onPressed: () {
                 Share.share(
-                  'Check out this awesome GPA calculator app!',
-                  subject: 'KUST GPA Calculator App',
+                  'https://play.google.com/store/apps/details?id=com.thekami.kustapp',
+                  subject: 'KUST App',
                 );
               },
               child: const Text(

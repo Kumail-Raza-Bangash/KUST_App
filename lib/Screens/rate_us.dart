@@ -5,7 +5,7 @@ import '../assets/colors/colors.dart';
 
 class RateUs extends StatefulWidget {
   final String androidStoreUrl =
-      'https://play.google.com/store/apps/details?id=your.package.name';
+      'https://play.google.com/store/apps/details?id=com.thekami.kustapp';
 
   const RateUs({super.key});
 
